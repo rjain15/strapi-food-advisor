@@ -4,7 +4,7 @@
 
 Clone FoodAdvisor
 
-`Path: ./my-projects/`:
+`Path: cd ~/code/strapi/`:
 
 ```
 git clone https://github.com/strapi/foodadvisor.git
@@ -12,7 +12,7 @@ git clone https://github.com/strapi/foodadvisor.git
 
 ## 2. Start Strapi from the ./api folder
 
-`Path: ./my-projects/api/`:
+`Path: ~/code/foodadivsor/api`:
 
 Run the following from your command line:
 
@@ -26,7 +26,7 @@ You will find more information and options in the [**api** README](./api).
 
 ## 3. Start the front-end from the ./client folder
 
-`Path: ./my-projects/client/`:
+`Path: ~/code/foodadvisor/client/`:
 
 Run the following from your command line:
 
