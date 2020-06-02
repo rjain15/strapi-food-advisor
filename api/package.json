@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "fs-extra": "9.0.0",
-    "knex": "0.21.1",
+    "knex": "0.19.5",
     "lodash": "^4.17.15",
     "sqlite3": "^4.2.0",
     "strapi": "3.0.1",
